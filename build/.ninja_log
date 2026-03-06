@@ -1,0 +1,11 @@
+# ninja log v6
+18	495	7874018810928075	CMakeFiles/SDLShooter-Windows.dir/main.cpp.obj	e2fa8ab20a2150ce
+36	638	7894153316685024	CMakeFiles/SDLShooter-Windows.dir/src/Game.cpp.obj	94fbfbc83dafed1
+882	1021	7894170918383938	C:/SDLShooter/SDLShooter-Windows.exe	afa48195b74c4abe
+4	184	7944734675853488	build.ninja	28e61cfde0c43ee7
+4	184	7944734675800591	C:/SDLShooter/build/cmake_install.cmake	28e61cfde0c43ee7
+42	881	7894170909981822	CMakeFiles/SDLShooter-Windows.dir/src/SceneMain.cpp.obj	55c877f2c4ef7c35
+46	998	7894151483876462	CMakeFiles/SDLShooter-Windows.dir/src/main.cpp.obj	719fef3eaed92b96
+50	592	7894153316825707	CMakeFiles/SDLShooter-Windows.dir/src/SceneTitle.cpp.obj	27bcc7f53874962e
+60	988	7894151484019210	CMakeFiles/SDLShooter-Windows.dir/src/Scene.cpp.obj	396dd72422ac8b95
+58	633	7894153316904962	CMakeFiles/SDLShooter-Windows.dir/src/SceneEnd.cpp.obj	5e3eaa52b6fd87d6

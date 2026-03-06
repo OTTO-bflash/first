@@ -1,0 +1,3 @@
+C:/SDLShooter/build/CMakeFiles/SDLShooter-Windows.dir
+C:/SDLShooter/build/CMakeFiles/edit_cache.dir
+C:/SDLShooter/build/CMakeFiles/rebuild_cache.dir
